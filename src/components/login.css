@@ -1,0 +1,10 @@
+.loginform{
+    text-align: center;
+    margin-top: 30px;
+   margin-bottom: 10px;
+}
+.login_submit{
+    background-color: rgb(74, 222, 222);
+    padding: 10px 20px;
+    margin-top: 20px;
+}

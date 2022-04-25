@@ -1,0 +1,41 @@
+.nav-home{
+    margin: 20px;
+    text-decoration: none;
+    margin-top: 40px;
+    border: 1px solid black;
+    padding: 10px 20px;
+    background-color: rgb(71, 234, 234);
+}
+.nav-list{
+    margin: 20px;
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 10px 20px;
+    background-color: rgb(71, 234, 234);
+}
+.nav-admin{
+    margin: 20px;
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 10px 20px;
+    background-color: rgb(71, 234, 234);
+}
+.nav-logout{
+    margin: 20px;
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 10px 20px;
+    background-color: rgb(71, 234, 234);
+
+}
+.nav-login{
+    margin: 20px;
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 10px 20px;
+    background-color: rgb(71, 234, 234);
+}
+.navbar{
+    margin-top: 40px;
+    text-align: center;
+}
